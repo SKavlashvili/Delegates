@@ -1,0 +1,15 @@
+C:\Users\skavlashvili\Desktop\TestConsoleAPP\TestConsoleAPP\bin\Debug\net6.0\TestConsoleAPP.exe
+C:\Users\skavlashvili\Desktop\TestConsoleAPP\TestConsoleAPP\bin\Debug\net6.0\TestConsoleAPP.deps.json
+C:\Users\skavlashvili\Desktop\TestConsoleAPP\TestConsoleAPP\bin\Debug\net6.0\TestConsoleAPP.runtimeconfig.json
+C:\Users\skavlashvili\Desktop\TestConsoleAPP\TestConsoleAPP\bin\Debug\net6.0\TestConsoleAPP.dll
+C:\Users\skavlashvili\Desktop\TestConsoleAPP\TestConsoleAPP\bin\Debug\net6.0\TestConsoleAPP.pdb
+C:\Users\skavlashvili\Desktop\TestConsoleAPP\TestConsoleAPP\obj\Debug\net6.0\TestConsoleAPP.csproj.AssemblyReference.cache
+C:\Users\skavlashvili\Desktop\TestConsoleAPP\TestConsoleAPP\obj\Debug\net6.0\TestConsoleAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skavlashvili\Desktop\TestConsoleAPP\TestConsoleAPP\obj\Debug\net6.0\TestConsoleAPP.AssemblyInfoInputs.cache
+C:\Users\skavlashvili\Desktop\TestConsoleAPP\TestConsoleAPP\obj\Debug\net6.0\TestConsoleAPP.AssemblyInfo.cs
+C:\Users\skavlashvili\Desktop\TestConsoleAPP\TestConsoleAPP\obj\Debug\net6.0\TestConsoleAPP.csproj.CoreCompileInputs.cache
+C:\Users\skavlashvili\Desktop\TestConsoleAPP\TestConsoleAPP\obj\Debug\net6.0\TestConsoleAPP.dll
+C:\Users\skavlashvili\Desktop\TestConsoleAPP\TestConsoleAPP\obj\Debug\net6.0\refint\TestConsoleAPP.dll
+C:\Users\skavlashvili\Desktop\TestConsoleAPP\TestConsoleAPP\obj\Debug\net6.0\TestConsoleAPP.pdb
+C:\Users\skavlashvili\Desktop\TestConsoleAPP\TestConsoleAPP\obj\Debug\net6.0\TestConsoleAPP.genruntimeconfig.cache
+C:\Users\skavlashvili\Desktop\TestConsoleAPP\TestConsoleAPP\obj\Debug\net6.0\ref\TestConsoleAPP.dll
